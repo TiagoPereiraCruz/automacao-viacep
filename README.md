@@ -14,7 +14,6 @@ Automação da API ViaCEP
 ## Cereja
 
 [Report] Resultados podem ser encontrados em: VR-desafio\log -> report_dd-mm-YYYY.html
-
 [contato] tiago.peng@gmail.com
 
 ![report-1](./reportbuilder-1.png)
@@ -33,7 +32,6 @@ Automação da API ViaCEP
 
     2.1. Criar um cenário de sucesso na consulta, printando o código do IBGE do endereço no
     stdout.
-    
     2.2. Criar um cenário passando um CEP inválido
 
 ## Dicas:
