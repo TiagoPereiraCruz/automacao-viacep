@@ -12,7 +12,7 @@ at_exit do
     config.input_path = "log/report.json"
     config.report_path = "log/report_#{t}"
     config.report_types = [:html]
-    config.report_title = "VIA CEP"
+    config.report_title = "ViaCEP"
     config.additional_info = @infos
     config.color = "green"
   end
