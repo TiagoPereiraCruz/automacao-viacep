@@ -14,6 +14,7 @@ Automação da API ViaCEP
 ## Cereja
 
 [Report] Resultados podem ser encontrados em: VR-desafio\log -> report_dd-mm-YYYY.html
+
 [contato] tiago.peng@gmail.com
 
 Objetivo da automação:
