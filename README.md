@@ -30,7 +30,7 @@ Teste:
 2. Cenários:
 
     2.1. Criar um cenário de sucesso na consulta, printando o código do IBGE do endereço no
-    stdout.
+    stdout
     2.2. Criar um cenário passando um CEP inválido
 
 Dicas:
