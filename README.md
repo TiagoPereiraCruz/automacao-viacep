@@ -17,17 +17,17 @@ Automação da API ViaCEP
 
 [contato] tiago.peng@gmail.com
 
-![]
+![report-1](./reportbuilder-1.png)
+![report-2](./reportbuilder-2.png)
 
-Objetivo da automação:
+## Objetivo da automação:
 
-Teste - QA - VR
-Regras:
+## Regras:
 1. Implementar os testes com Cucumber + Ruby
 2. Enviar o teste em um repositório público do Github ou similar
 3. 3 dias para resolver o exercício
 
-Teste:
+## Teste:
 1. Criar uma funcionalidade para consultar os dados de um endereço a partir de um CEP.
 2. Cenários:
 
@@ -36,6 +36,6 @@ Teste:
     
     2.2. Criar um cenário passando um CEP inválido
 
-Dicas:
+## Dicas:
 Utilizar a API https://viacep.com.br/ws/01001000/json/ para consulta;
 Gem HTTParty pode ser uma ajuda incrível para trabalhar com as requisições HTTP
